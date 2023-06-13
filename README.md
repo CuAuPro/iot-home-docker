@@ -21,7 +21,7 @@ sudo apt install git
 Checkout the repository with:
 
 ```
-git clone git@github.com:maddindeiss/iot-docker-mqtt-setup.git 
+git clone git@github.com:CuAuPro/iot-home-docker.git
 ```
 
 
